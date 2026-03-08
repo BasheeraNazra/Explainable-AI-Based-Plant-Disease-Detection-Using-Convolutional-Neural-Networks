@@ -1,8 +1,12 @@
 # 🌿 Explainable AI Based Plant Disease Detection Using Convolutional Neural Networks
 
 ## 📌 Project Overview
-This project uses **Convolutional Neural Networks (CNN)** to detect plant diseases from leaf images and provides prediction explanations using **Explainable AI techniques**.  
-The system analyzes leaf images to identify the disease affecting the plant, enabling **early detection and better crop management** for farmers and agricultural researchers.
+
+This project presents a deep learning–based system for detecting plant diseases from leaf images using **Convolutional Neural Networks (CNN)**. The model analyzes images of plant leaves and classifies them into different disease categories.
+
+To improve transparency and understanding of model predictions, the system also incorporates **Explainable AI techniques**, which highlight the regions of the leaf that influence the model's decision. This helps users interpret how the model identifies plant diseases.
+
+By enabling accurate and early disease detection, the system can assist farmers and agricultural researchers in monitoring crop health and taking timely preventive measures to reduce crop loss.
 
 ---
 
