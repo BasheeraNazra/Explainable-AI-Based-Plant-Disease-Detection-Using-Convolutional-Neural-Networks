@@ -30,7 +30,7 @@ Matplotlib
 Jupyter Notebook
 
 📂 Project Structure
-Explainable-AI-Based-Plant-Disease-Detection
+Explainable-AI-Based-Plant-Disease-Detection-Using-Convolutional-Neural-Networks
 │
 ├── create_npy_dataset.ipynb
 ├── create_CNN_model.ipynb
@@ -107,7 +107,7 @@ Place the Model folder inside the main project directory.
 
 Example:
 
-Explainable-AI-Based-Plant-Disease-Detection
+Explainable-AI-Based-Plant-Disease-Detection-Using-Convolutional-Neural-Networks
 │
 ├── Model
 │   └── model files
@@ -120,7 +120,7 @@ Once the Model folder is placed correctly, you can run the prediction notebook.
 
 🚀 How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/repository-name.git
+
 2️⃣ Install required libraries
 pip install tensorflow opencv-python numpy matplotlib jupyter
 3️⃣ Open Jupyter Notebook
