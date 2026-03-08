@@ -29,19 +29,21 @@ Matplotlib
 
 Jupyter Notebook
 
-📂 Project Structure
-Explainable-AI-Based-Plant-Disease-Detection-Using-Convolutional-Neural-Networks
-│
-├── create_npy_dataset.ipynb
-├── create_CNN_model.ipynb
-├── Plant_disease_prediction_ExplainableAI.ipynb
-│
-├── uploadimages
-│   ├── test_image1.jpg
-│   ├── test_image2.jpg
-│   └── test_image3.jpg
-│
-└── README.md
+## 📂 Project Structure
+'''
+ Explainable-AI-Based-Plant-Disease-Detection-Using-Convolutional-Neural-Networks
+ │
+ ├── create_npy_dataset.ipynb
+ ├── create_CNN_model.ipynb
+ ├── Plant_disease_prediction_ExplainableAI.ipynb
+ │
+ ├── uploadimages
+ │   ├── test_image1.jpg
+ │   ├── test_image2.jpg
+ │   └── test_image3.jpg
+ │
+ └── README.md
+'''
 📓 Notebook Description
 1️⃣ create_npy_dataset.ipynb
 
